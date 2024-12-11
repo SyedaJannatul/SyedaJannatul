@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Syeda Jannatul Naim (Meem)
-- 👀 I’m interested in Machine Learning,Natural Language Processing,Web Development-Django Framework.
-- 🌱 I’m currently learning Computer Vision.
-- 💞️ I’m looking to collaborate on open source project.
-- 📫 reach me through email : syedajannat14@gmail.com
+- 👀 I’m interested in Machine Learning,Natural Language Processing, Generative AI.
+- 📫 reach me through email : syedajannat14@gmail.com or
+- - 📫 reach me through email : syeda.jannatul.cse@gmail.com
+
 
 <!---
 SyedaJannatul/SyedaJannatul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
