@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Syeda Jannatul Naim (Meem)
 - 👀 I’m interested in Machine Learning,Natural Language Processing, Generative AI.
-- 📫 reach me through email : syedajannat14@gmail.com or
-- - 📫 reach me through email : syeda.jannatul.cse@gmail.com
+- 📫 reach me through email : syeda.jannatul.cse@gmail.com 
 
 
 <!---
